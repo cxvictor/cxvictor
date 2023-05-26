@@ -1,6 +1,6 @@
 
  <p align="center">
-     <img src="https://github.com/cxvictor/cxvictor/assets/100051022/052f0ef8-7122-4a80-812b-e5bd018dd6ca" alt="Kokushibou" width="300px">
+     <img src="https://github.com/cxvictor/cxvictor/assets/100051022/fa622639-9827-4e8c-b107-40abfed7c0d0" alt="Kokushibou" width="300px">
 <table>
    <tr>
     <th>Profile stats  </th>
